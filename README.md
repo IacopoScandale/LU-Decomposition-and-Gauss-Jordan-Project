@@ -1,5 +1,7 @@
 # Matlab Class Project
 
+> ***Iacopo Scandale, SMIA 2024***
+
 A MATLAB project on LU decomposition and its applications, enhanced with the Gauss-Jordan algorithm. This project was created for the Numerical Methods course and presented during an oral exam at Sapienza University of Rome.
 
 
